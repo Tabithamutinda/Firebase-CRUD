@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776435357459",
+    "project_id": "firehub-b82ac",
+    "storage_bucket": "firehub-b82ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776435357459:android:7bacd784b169bfa66aece6",
+        "android_client_info": {
+          "package_name": "com.example.firehub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776435357459-3ebujdpdoqtsuefs0lt4h46kvnf7ub4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWbvTOhjUtVKrokQtV527Jlct0gFlRT9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776435357459-3ebujdpdoqtsuefs0lt4h46kvnf7ub4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
